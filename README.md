@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Menotr SOlution]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/interactive-rating-component-react-sass-gsap-PtBbbOzOge))
+- Live Site URL: [Interactive Rating in Vercel]([https://your-live-site-url.com](https://frontend-mentor-interactive-rating-ten.vercel.app/))
 
 ## My process
 
@@ -47,7 +47,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Sass](https://sass-lang.com/) - For styles
 - [GSAP](https://greensock.com/gsap/) - For animations
-- [Github Pages](https://pages.github.com/) - For deploy
+- [Vercel](https://frontend-mentor-interactive-rating-ten.vercel.app/) - For deploy
 
 ## Author
 
