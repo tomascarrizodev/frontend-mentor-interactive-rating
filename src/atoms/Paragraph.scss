@@ -1,0 +1,9 @@
+@use '../sass/colors' as *;
+@use '../sass/typography' as *;
+
+.p {
+    color: $m-grey;
+    font-family: $overpass;
+    font-size: 14px;
+    line-height: 1.25rem;
+}

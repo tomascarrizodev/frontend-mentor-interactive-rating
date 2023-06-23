@@ -1,0 +1,13 @@
+@use '../sass/colors' as *;
+@use '../sass/typography' as *;
+@use 'sass:color' as *;
+
+.final-rate {
+    opacity: .8;
+    padding: .5rem 1rem;
+    border-radius: 2rem;
+    color: $orange;
+    background-color: adjust($d-blue, $whiteness: 5%);
+    font-family: $overpass;
+    margin: 0;
+}

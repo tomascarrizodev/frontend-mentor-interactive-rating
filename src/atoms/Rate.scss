@@ -1,0 +1,35 @@
+@use '../sass/colors' as *;
+@use "sass:color" as *;
+
+@mixin active {
+    background-color: $orange;
+    color: white;
+}
+
+.rate {
+    border: none;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 2rem;
+    background-color: adjust($d-blue, $whiteness: 2%);
+    color: $l-grey;
+    transition: all .3s;
+
+    &.btn {
+        cursor: pointer;
+        
+        &:hover {
+            background-color: $l-grey;
+            color: white;
+        }
+    }
+    
+
+    &.active {
+        @include active();
+        
+        &:hover {
+            @include active();
+        }
+    }
+}

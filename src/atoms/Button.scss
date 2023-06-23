@@ -1,0 +1,20 @@
+@use '../sass/colors' as *;
+@use '../sass/typography' as *;
+
+.button {
+    color: white;
+    text-transform: uppercase;
+    font-weight: $bold;
+    border: none;
+    border-radius: 2rem;
+    background-color: $orange;
+    padding: 1rem 0;
+    letter-spacing: .25rem;
+    transition: all .3s;
+    cursor: pointer;
+
+    &:hover {
+        background-color: white;
+        color: $orange;
+    }
+}

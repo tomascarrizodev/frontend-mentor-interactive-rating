@@ -1,0 +1,11 @@
+@use '../sass/colors' as *;
+@use '../sass/typography' as *;
+
+.container {
+    min-height: 100vh;
+    background-color: $xd-blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.25rem;
+}

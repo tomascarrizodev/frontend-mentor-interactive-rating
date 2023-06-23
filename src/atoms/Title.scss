@@ -1,0 +1,8 @@
+@use '../sass/typography' as *;
+
+.title {
+    color: white;
+    font-family: $overpass;
+    font-weight: $bold;
+    font-size: 1.5rem;
+}
