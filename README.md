@@ -25,10 +25,10 @@ Users should be able to:
 
 ### Screenshots
 
-![](./desktop.jpg)
-![](./desktop-thanks.jpg)
-![](./phone.jpg)
-![](./phone-thanks.jpg)
+![](./desktop.png)
+![](./desktop-thanks.png)
+![](./phone.png)
+![](./phone-thanks.png)
 
 ### Links
 
